@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GAAD_Xml_Custom_Xml.iml" filepath="$PROJECT_DIR$/GAAD_Xml_Custom_Xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GAAD_Custom_Xml.iml" filepath="$PROJECT_DIR$/GAAD_Custom_Xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

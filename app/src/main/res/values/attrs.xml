@@ -1,13 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <declare-styleable name="ColorOptionsView">
-        <attr name="titleText" format="string" localization="suggested" />
-        <attr name="valueColor" format="color" />
+    <declare-styleable name="CustomEditBoxEliment">
+        <attr name="inputCounts" format="integer"/>
     </declare-styleable>
-
-    <declare-styleable name="Options">
-        <attr name="titleText" format="string" localization="suggested" />
-        <attr name="valueColor" format="color" />
-    </declare-styleable>
-
 </resources>
