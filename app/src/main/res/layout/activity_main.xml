@@ -7,11 +7,14 @@
     <view.edit.input.gaad_xml_custom_xml.CustomEditBox
         android:id="@+id/edit_text_order_note"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_marginBottom="10dp"
         android:focusable="true"
         android:layout_below="@+id/text_order_note"
         android:textSize="14sp"
-        app:inputCounts="120" />
+        app:inputCounts="20"
+        app:inputTextSize="16dp"
+        app:inputTextColor="@android:color/black"
+        app:inputText="Hello LJLA LKJLKSJ jlkajsl jsdkljvsdf ljlkjfd vf ljldfkvfd kjfvfv ljl"/>
 
 </LinearLayout>

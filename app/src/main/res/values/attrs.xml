@@ -2,5 +2,8 @@
 <resources>
     <declare-styleable name="CustomEditBoxEliment">
         <attr name="inputCounts" format="integer"/>
+        <attr name="inputText" format="string"/>
+        <attr name="inputTextSize" format="dimension"/>
+        <attr name="inputTextColor" format="color"/>
     </declare-styleable>
 </resources>
